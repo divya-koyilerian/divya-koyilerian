@@ -1,0 +1,3 @@
+
+  select * FROM [DBAdmin].[dbo].[Masking_Control_Tab]
+  Select * from  Geo_address
